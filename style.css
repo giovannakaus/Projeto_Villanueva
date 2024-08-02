@@ -1,5 +1,5 @@
 {
-    margin: 0;
+    margin: 20;
     padding: 0;
     border: 0;
     box-sizing: border-box;
@@ -11,7 +11,7 @@
     flex-direction: column;
     align-items: center;
   
-    background-color: rgb(19, 124, 24);
+    background-color: rgb(25, 122, 30);
   
     font-family: 'Courier New', Courier, monospace;
   }
