@@ -61,7 +61,7 @@
   
   /* BOTÃO MENU HAMBURGUER */
   .menu {
-    background-color: rgb(214, 161, 214);
+    background-color: rgb(188, 248, 153);
     width: 60px;
     height: 60px;
     margin: 1rem 1rem;
@@ -73,7 +73,7 @@
   .hamburguer {
     position: relative;
     display: block;
-    background: #fff;
+    background: #22c790;
     width: 30px;
     height: 2px;
     top: 29px;
@@ -83,7 +83,7 @@
   
   .hamburguer:before,
   .hamburguer:after {
-    background: #ffff;
+    background: #1bbd64;
     content: '';
     display: block;
     width: 100%;
